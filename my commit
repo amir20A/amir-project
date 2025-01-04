@@ -1,0 +1,4 @@
+git status
+git branch
+git merge
+git commit -m "Hi"
